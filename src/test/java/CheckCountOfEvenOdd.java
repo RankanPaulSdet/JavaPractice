@@ -1,6 +1,6 @@
 public class CheckCountOfEvenOdd {
     public static void main(String[] args) {
-        int num = 12345;
+        int num = 1234;
         int Even_Count = 0;
         int Odd_count = 0;
         int rem=0;
